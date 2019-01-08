@@ -13,7 +13,7 @@ superCardMall分为两部分 前后端分离（由于开发时使用其他代码
 
 ## 代码使用
 - 前端代码比较简单直接解压放入根目录即可（如果要放入其他目录 请联系作者 微信：**xiaozhi_00100**）
-— 服务端代码cardmallserver.zip使用python3.7 Django2.1.2开发，确保python开发环境安装，如没有安装请自行百度，解压打开运行如下
+- 服务端代码cardmallserver.zip使用python3.7 Django2.1.2开发，确保python开发环境安装，如没有安装请自行百度，解压打开运行如下：
 	1. pip install -r requirements.txt # 从requirements.txt安装依赖
 	2. python manage.py makemigrations #迁移数据库
 	3. python manage.py migrate #迁移数据库
@@ -22,4 +22,4 @@ superCardMall分为两部分 前后端分离（由于开发时使用其他代码
 
 
 
-以上就是全部使用过程 运行ok的话 就可以进入 域名/admin 进入后太管理页面了
+以上就是全部使用过程 运行ok的话 就可以进入 域名/admin 进入后台管理页面了
